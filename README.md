@@ -1,2 +1,2 @@
-# ["mrkash69.github.io"]
+# mrkash69.github.io
 my website.
